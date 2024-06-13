@@ -4,7 +4,7 @@ addEventListener("fetch", (event) => {
 });
 
 const routes = {
- "docker.mirror.luckylucy.live": "https://registry-1.docker.io",
+  "docker.mirror.luckylucy.live": "https://registry-1.docker.io",
   "ghcr.mirror.luckylucy.live": "https://ghcr.io",
 };
 
